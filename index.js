@@ -3,6 +3,7 @@ function greet() {
   console.log("modified bug");
   console.log("modified bug");
   console.log("modified bug");
+  console.log("modified bug");
 }
 
 greet();
